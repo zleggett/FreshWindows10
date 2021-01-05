@@ -38,5 +38,6 @@ choco install razer-synapse-2
 choco install twitch
 choco install zoom
 choco install git
+choco install vmwareworkstation --version=15.5.7.17171714
 
 refreshenv
