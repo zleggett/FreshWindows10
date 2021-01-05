@@ -37,5 +37,6 @@ choco install signal
 choco install razer-synapse-2
 choco install twitch
 choco install zoom
+choco install git
 
 refreshenv
