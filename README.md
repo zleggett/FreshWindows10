@@ -19,7 +19,7 @@ To add an appliaction to be installed, add a new line to the script containing `
 All available choco packages can be seen [here](https://chocolatey.org/packages).
 
 ## Updating Applications Installed using Choco
-### Update a specific package
+### Update a specific package:
 ```choco upgrade package_name``` or ```cup package_name```
-### Update all installed packages
+### Update all installed packages:
 ```choco upgrade all``` or ```cup all```
