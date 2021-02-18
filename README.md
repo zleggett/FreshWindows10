@@ -16,7 +16,7 @@ To prevent an application from being installed simply remove the ```choco instal
 If you need to uninstall an application that has already been installed, run ```choco uninstall item_to_be_removed``` in powershell.
 ### Adding:
 To add an appliaction to be installed, add a new line to the script containing ```choco install item_to_install```.\
-All available choco packages can be seen [here](https://chocolatey.org/packages).
+All available choco packages can be seen [here](https://chocolatey.org/packages) or you can use ```choco search --by-id-only package_name```.
 
 ## Updating Applications Installed using Choco
 ### Update a specific package:
