@@ -6,38 +6,34 @@ choco feature enable -n allowGlobalConfirmation
 
 choco install 7zip.install
 choco install adobereader
-choco install javaruntime
-choco install openjdk
 choco install audacity
-choco install webex-meetings
-choco install icue
 choco install cpu-z
 choco install discord
-choco install epicgameslauncher
-choco install protonvpn
-choco install goggalaxy
 choco install firefox
-choco install google-chrome-x64
-choco install vscode
-choco install notepadplusplus
-choco install steam
-choco install winscp
-choco install putty
-choco install hxd
+choco install geforce-experience
+choco install git
+choco install goggalaxy
+choco install googlechrome
 choco install hwinfo
+choco install hxd
+choco install icue
+choco install javaruntime
 choco install malwarebytes
 choco install mattermost-desktop
 choco install minecraft-launcher
 choco install msiafterburner
-choco install wireshark
-choco install geforce-experience
+choco install notepadplusplus
 choco install obs-studio
-choco install origin
+choco install openjdk
+choco install protonvpn
+choco install putty
 choco install signal
-choco install razer-synapse-2
-choco install twitch
-choco install zoom
-choco install git
 choco install vmwareworkstation --version=15.5.7.17171714
+choco install vscode
+choco install warp
+choco install webex-meetings
+choco install winscp
+choco install wireshark
+choco install zoom
 
 refreshenv
